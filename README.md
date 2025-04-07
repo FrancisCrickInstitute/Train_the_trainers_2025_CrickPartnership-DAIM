@@ -14,6 +14,7 @@ Participants will be selected based on their expertise and role as trainers in b
 Please apply here:
 [Train the Trainers - DAIM-Crick Partnership - 2025 - application - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdP0-xE9a_ge8JcybChEWs52VjcUHc51a1-brYVRZDyYUF1kg/viewform)
 
+
 <b>Application deadline:  6th May 2025</b>
 
 ### Train the Trainers in Bioimage Analysis  - RMS DAIM-Crick & Partners
