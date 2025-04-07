@@ -40,16 +40,27 @@ please use the following subject: Train the Trainers 2025 - DAIM-Crick Partnersh
 Programme in short:
 
 13th June 2025
+
 09:30 - 10:00 - Registration
+
 10:00 - 10:30 - Welcome and self-introduction  
+
 10:30 - 12:00 - Technical session and tool showcase
+
 12:00 - 13:00 - Lunch
+
 13:00 - 14:00 - How to organise bioimage analysis workshops
+
 14:00 - 15:00 - Right teaching settings - Pedagogy of training (with Higher Education specialist)
+
 15:00 - 15:30 - Call for help - Selected challenges in BIA training, proposed by participants
+
 15:30 - 16:00 - Coffee break
+
 16:00 - 17:00 - Panel discussion on BIA solutions and strategies for future training courses
+
 17:00 - 17:30 - Wrap up
+
 18:00 -  Drink and nibbles reception
 
 
