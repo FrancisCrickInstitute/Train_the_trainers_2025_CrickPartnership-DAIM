@@ -12,7 +12,9 @@ The event is free, and travel and accommodation support will be available for at
 Participants will be selected based on their expertise and role as trainers in bioimaging facilities or research groups. The target audience includes researchers with knowledge of bioimage analysis principles who wish to improve their skills in providing training.
 
 Please apply here:
-[Train the Trainers - DAIM-Crick Partnership - 2025 - application - Google Forms](https://docs.google.com/forms/d/1HKJro3_6y3bb-mlvILZN6Yh9rf1mGsdiiBorWGvKQVo/edit)
+[Train the Trainers - DAIM-Crick Partnership - 2025 - application - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdP0-xE9a_ge8JcybChEWs52VjcUHc51a1-brYVRZDyYUF1kg/viewform)
+
+<b>Application deadline:  6th May 2025</b>
 
 ### Train the Trainers in Bioimage Analysis  - RMS DAIM-Crick & Partners
 
